@@ -1,0 +1,36 @@
+body{
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+h1{
+    color: #17a2b8;
+}
+.login{
+    border: 1px solid #17a2b8;
+    color: #17a2b8;
+}
+.login:hover{
+    background-color: #17a2b8;
+    color: white;
+}
+.signin-input input{
+    background-color: #24353f;
+  color:white;
+
+}
+.signin-input input:focus{
+    background-color:#24353f;
+}
+.signup span,  a{
+    color: white;
+}
+.signup a{
+    text-decoration: none;
+}
+.signup a:hover{
+    text-decoration: underline;
+    color: white;
+}
+.input-box{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1) ;
+}
